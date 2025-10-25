@@ -71,7 +71,7 @@ export default function Home() {
   ];
   return (
     <>
-      <h1 className="scroll-m-20 text-center text-4xl font-extrabold tracking-tight text-balance">
+      <h1 className="scroll-m-20 text-center text-4xl font-extrabold tracking-tight text-balance mb-12">
         Gym log
       </h1>
       <div className="flex flex-col gap-4 w-full">
